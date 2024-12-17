@@ -7,6 +7,9 @@ int main(){
 	do{
 		cout << "Student [" << "]: ";
 		cin >> grade; //The loop must be terminated when grade = '0'
+		for(grade!=0){
+			if
+		}
 		if(true) // if grade is A
 			//Do something
 		}else if(true) // if grade is B
@@ -18,7 +21,7 @@ int main(){
 	}while(true);
 	
 	
-	cout << "In total ? students.";
+	cout << "In total i students.";
 	cout << "A = " << count[0] <<", ";
 	cout << "B = " << count[1] <<", ";	
 	//	and so on ... for grade = C, D, F	
